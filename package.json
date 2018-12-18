@@ -21,5 +21,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "## Available Scripts",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Kenneth Lanza",
+  "license": "ISC"
 }
