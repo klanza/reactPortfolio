@@ -1,1 +1,1 @@
-export default './Projects';
+export { default} from './Projects';
